@@ -1,0 +1,4 @@
+[fix] no dir found error when saving firework type
+[fix] no dir created on plugin load
+[added] new dir for firework show
+[added] new command /fwshow <0-3> < more to come and changes to be made

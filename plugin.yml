@@ -1,0 +1,15 @@
+name: CrazyFireworks
+main: zhscraft.mod.net.main
+version: 1.3.2
+authors: [ZhsCraft, ZhsHero_LTD]
+commands:
+   fw:
+     description: fireworks above your head.
+   fwshow:
+     description: fireworks show for everyone to view
+   fwo:
+     description: fireworks above someones head.
+   fwtype:
+     description: changes the firework type.
+   fwhelp:
+     description: shows the commands that you have permission to use.
